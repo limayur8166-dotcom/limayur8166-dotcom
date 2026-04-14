@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 About Me (Animated Style)
+### 🧠 About Me 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=FFFFFF&center=true&vCenter=true&width=700&lines=DevOps+%2B+Network+Engineer;AWS+ECS+%7C+ECR+%7C+CI%2FCD;Docker+%26+Automation+Expert;Building+Scalable+Systems" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🔥 Animated Activity Graph
+### 🔥 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 Animated Stats
+### 📊 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 🎬 Portfolio Preview (GIF Animation)
+### 
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
