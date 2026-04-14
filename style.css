@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: white;
+  background: black;
+  overflow-x: hidden;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+section {
+  padding: 80px;
+  text-align: center;
+}
+
+.hero h1 span {
+  color: cyan;
+}
+
+.skill-list span {
+  margin: 10px;
+  padding: 10px 20px;
+  background: #111;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+.card {
+  background: #111;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
