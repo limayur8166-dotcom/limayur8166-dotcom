@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <a href="https://YOUR_USERNAME.github.io/portfolio/">
+  <a href="https://limayur8166-dotcom.github.io/MayurPatil/">
     <img src="https://img.shields.io/badge/🌐%20View%20My%20Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
 </p>
@@ -65,8 +65,8 @@
   <a href="https://linkedin.com/in/YOUR_PROFILE">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="limayur8166@gmail.com">
+    <img src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" />
   </a>
 </p>
 
